@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carol\\OneDrive\\Documentos\\Aulas Thiago\\C#\\AtividadesTechClass\\CalculadoraPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E14BB0-B90F-4C00-BB52-6387DDDE4ABD}|CalculadoraPlus\\CalculadoraPlus.csproj|c:\\users\\carol\\onedrive\\documentos\\aulas thiago\\c#\\atividadestechclass\\calculadoraplus\\calculadoraplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E14BB0-B90F-4C00-BB52-6387DDDE4ABD}|CalculadoraPlus\\CalculadoraPlus.csproj|solutionrelative:calculadoraplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E14BB0-B90F-4C00-BB52-6387DDDE4ABD}|CalculadoraPlus\\CalculadoraPlus.csproj|c:\\users\\carol\\onedrive\\documentos\\aulas thiago\\c#\\atividadestechclass\\calculadoraplus\\calculadoraplus\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E14BB0-B90F-4C00-BB52-6387DDDE4ABD}|CalculadoraPlus\\CalculadoraPlus.csproj|solutionrelative:calculadoraplus\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E14BB0-B90F-4C00-BB52-6387DDDE4ABD}|CalculadoraPlus\\CalculadoraPlus.csproj|c:\\users\\carol\\onedrive\\documentos\\aulas thiago\\c#\\atividadestechclass\\calculadoraplus\\calculadoraplus\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E14BB0-B90F-4C00-BB52-6387DDDE4ABD}|CalculadoraPlus\\CalculadoraPlus.csproj|solutionrelative:calculadoraplus\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraCientifica.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\OneDrive\\Documentos\\Aulas Thiago\\C#\\AtividadesTechClass\\CalculadoraPlus\\CalculadoraPlus\\CalculadoraCientifica.cs",
+              "RelativeDocumentMoniker": "CalculadoraPlus\\CalculadoraCientifica.cs",
+              "ToolTip": "C:\\Users\\carol\\OneDrive\\Documentos\\Aulas Thiago\\C#\\AtividadesTechClass\\CalculadoraPlus\\CalculadoraPlus\\CalculadoraCientifica.cs",
+              "RelativeToolTip": "CalculadoraPlus\\CalculadoraCientifica.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:38:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\OneDrive\\Documentos\\Aulas Thiago\\C#\\AtividadesTechClass\\CalculadoraPlus\\CalculadoraPlus\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraPlus\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\carol\\OneDrive\\Documentos\\Aulas Thiago\\C#\\AtividadesTechClass\\CalculadoraPlus\\CalculadoraPlus\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraPlus\\Calculadora.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:38:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\OneDrive\\Documentos\\Aulas Thiago\\C#\\AtividadesTechClass\\CalculadoraPlus\\CalculadoraPlus\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraPlus\\Program.cs",
+              "ToolTip": "C:\\Users\\carol\\OneDrive\\Documentos\\Aulas Thiago\\C#\\AtividadesTechClass\\CalculadoraPlus\\CalculadoraPlus\\Program.cs",
+              "RelativeToolTip": "CalculadoraPlus\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:37:25.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

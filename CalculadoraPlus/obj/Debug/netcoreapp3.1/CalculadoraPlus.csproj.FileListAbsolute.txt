@@ -1,0 +1,14 @@
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\bin\Debug\netcoreapp3.1\CalculadoraPlus.exe
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\bin\Debug\netcoreapp3.1\CalculadoraPlus.deps.json
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\bin\Debug\netcoreapp3.1\CalculadoraPlus.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\bin\Debug\netcoreapp3.1\CalculadoraPlus.runtimeconfig.dev.json
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\bin\Debug\netcoreapp3.1\CalculadoraPlus.dll
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\bin\Debug\netcoreapp3.1\CalculadoraPlus.pdb
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.sourcelink.json
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.dll
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.pdb
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\AtividadesTechClass\CalculadoraPlus\CalculadoraPlus\obj\Debug\netcoreapp3.1\CalculadoraPlus.genruntimeconfig.cache
